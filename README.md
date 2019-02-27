@@ -1,6 +1,10 @@
 # hifive1
 Pense bete sur hifive1
 
+## exemple tensorflow lite
+
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/experimental/micro/examples/micro_speech
+
 ## commande d'upload elf bare metal
 
 ```sh
